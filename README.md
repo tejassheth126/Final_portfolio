@@ -1,5 +1,5 @@
 # Final_portfolio
-<html lang="en">
+<html>
 <head>
     <meta charset="UTF-8" />
     <title>Tejas Sheth - Video Editor & Graphic Designer</title>
